@@ -1,4 +1,3 @@
-# Tocando amostras de 0.1s de cada nota
 import pygame as pygame
 import numpy as numpy 
 
@@ -7,12 +6,6 @@ pygame.mixer.init()
 screen = pygame.display.set_mode((1280, 720))
 font = pygame.font.SysFont("Impact", 48)
 
-
-sampling_rate = 44100 # valor padrão do mixer do pygame
-frequency = 440 # HZ
-duration = 1.5 # s
-
-# Transformando o código anterior em uma função
 def synth(frequency, duration = 1.5 , sampling_rate = 44100):
     frames = int(duration*sampling_rate)
     arr = numpy.cos(2*numpy.pi*frequency*numpy.linspace(0, duration, frames))
