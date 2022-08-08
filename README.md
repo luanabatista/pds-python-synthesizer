@@ -1,4 +1,5 @@
 # python-synthesizer
+## Trabalho Final Processamendo Digital de Sinais
 Sintetizador de som com Pygame e Numpy em Python.
 
 ## Fazendo o sintetizador de som
