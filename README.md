@@ -1,6 +1,6 @@
 # python-synthesizer
 ## Trabalho Final Processamendo Digital de Sinais
-Sintetizador de som com Pygame e Numpy em Python.
+Sintetizador de som com Pygame e Numpy em Python. Projeto Base: https://github.com/FinFetChannel/Python_Synth
 
 ## Fazendo o sintetizador de som
 ### 1 - making_one_sample
