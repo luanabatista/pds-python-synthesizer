@@ -1,5 +1,5 @@
 # python-synthesizer
-## Trabalho Final Processamendo Digital de Sinais
+## Trabalho Final de Processamento Digital de Sinais
 Sintetizador de som com Pygame e Numpy em Python. Projeto Base: https://github.com/FinFetChannel/Python_Synth
 
 ## Fazendo o sintetizador de som
